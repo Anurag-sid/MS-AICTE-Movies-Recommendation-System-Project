@@ -1,1 +1,1 @@
-MovieS Recommendation System
+Movies Recommendation System
